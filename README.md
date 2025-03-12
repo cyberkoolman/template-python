@@ -6,7 +6,7 @@
 
 # template-python
 
-This is a template repository for Python
+This is a template repository for Python, updaed.
 
 ## Prerequisites
 
